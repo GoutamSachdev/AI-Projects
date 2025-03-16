@@ -22,4 +22,7 @@ This project implements an AI-driven multi-agent system for customer support aut
 - **JSON & CSV Data Processing**
 - **Web Scraping**
 
-## 📂 Folder Structure
+## Create a virtual environment (optional)
+python3 -m venv venv
+source venv/bin/activate  # On macOS/Linux
+venv\Scripts\activate 
